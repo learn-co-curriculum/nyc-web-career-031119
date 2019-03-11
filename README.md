@@ -6,4 +6,4 @@
 ## Module 1
 | Topic            | Code                | Video                |
 | -----            | ----                | -----                |
-| 1. Hashketball Review | [Code](https://github.com/learn-co-students/nyc-web-students-031119/tree/master/01-hashketball-review) | [Video] coming soon |
+| 1. Hashketball Review | [Code](https://github.com/learn-co-students/nyc-web-students-031119/tree/master/01-hashketball-review) | [Video](https://www.youtube.com/watch?v=AeHgRGVMiRA&feature=youtu.be) |
