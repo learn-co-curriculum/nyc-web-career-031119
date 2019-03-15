@@ -9,3 +9,4 @@
 | 1. Hashketball Review | [Code](https://github.com/learn-co-students/nyc-web-students-031119/tree/master/01-hashketball-review) | [Video](https://www.youtube.com/watch?v=AeHgRGVMiRA&feature=youtu.be) |
 | 2. Object Orientation | [Code](https://github.com/learn-co-students/nyc-web-students-031119/tree/master/02-intro-to-oo) | [Video](https://www.youtube.com/watch?v=wrIBDmAo-xo&feature=youtu.be) |
 | 3. Has Many & Belongs To | [Code](https://github.com/learn-co-students/nyc-web-students-031119/tree/master/03-oo-relations-one-to-many) | [Video](http://youtu.be/uBm1HjW8JMY) |
+| 4. Has Many Through | [Code](https://github.com/learn-co-students/nyc-web-students-031119/tree/master/04-oo-many-to-many) | [Video](https://www.youtube.com/watch?v=RZTHsVHB1cM&feature=youtu.be) |
