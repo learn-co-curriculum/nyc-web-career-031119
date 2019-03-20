@@ -11,3 +11,4 @@
 | 3. Has Many & Belongs To | [Code](https://github.com/learn-co-students/nyc-web-students-031119/tree/master/03-oo-relations-one-to-many) | [Video](http://youtu.be/uBm1HjW8JMY) |
 | 4. Has Many Through | [Code](https://github.com/learn-co-students/nyc-web-students-031119/tree/master/04-oo-many-to-many) | [Video](https://www.youtube.com/watch?v=RZTHsVHB1cM&feature=youtu.be) |
 | 5. Object Architecture | [Code](https://github.com/learn-co-students/nyc-web-students-031119/tree/master/05-object-architecture) | [Video](http://youtu.be/ge2DwGj7-1M) |
+| 8. Into to ORMs | [Code](https://github.com/learn-co-students/nyc-web-students-031119/tree/master/08-intro-to-orms) | [Video](https://www.youtube.com/watch?v=rwrouXnCMDk&feature=youtu.be)|
