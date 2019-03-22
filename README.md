@@ -15,4 +15,5 @@
 |7. Intro to SQL | [Code](https://github.com/learn-co-students/nyc-web-students-031119/tree/master/07-into-to-sql) | [Video](https://studio.youtube.com/video/KfTU-K4AecI)
 | 8. Into to ORMs | [Code](https://github.com/learn-co-students/nyc-web-students-031119/tree/master/08-intro-to-orms) | [Video](https://www.youtube.com/watch?v=KfTU-K4AecI) |
 | 9. Dynamic ORMs & ActiveRecord::Welcome | [Code](https://github.com/learn-co-students/nyc-web-students-031119/tree/master/09-dynamic-orms) | [Video](http://youtu.be/wwMxuGeZSNM) |
+| 10. ActiveRecord Migrations & Relations | [Code](https://github.com/learn-co-students/nyc-web-students-031119/tree/master/10-activerecord) | [Video](https://www.youtube.com/watch?v=yMDLFvL9jy8&feature=youtu.be) |
 
