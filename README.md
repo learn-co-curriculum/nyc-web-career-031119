@@ -16,6 +16,6 @@
 | 8. Into to ORMs | [Code](https://github.com/learn-co-students/nyc-web-students-031119/tree/master/08-intro-to-orms) | [Video](https://www.youtube.com/watch?v=rwrouXnCMDk) |
 | 9. Dynamic ORMs & ActiveRecord::Welcome | [Code](https://github.com/learn-co-students/nyc-web-students-031119/tree/master/09-dynamic-orms) | [Video](http://youtu.be/wwMxuGeZSNM) |
 | 10. ActiveRecord Migrations & Relations | [Code](https://github.com/learn-co-students/nyc-web-students-031119/tree/master/10-activerecord) | [Video](https://www.youtube.com/watch?v=yMDLFvL9jy8&feature=youtu.be) |
-| 11. Hashes and the Internet | [Code](https://github.com/learn-co-students/nyc-web-students-031119/tree/master/11-hashes-and-the-internet) | [Video] coming soon... |
+| 11. Hashes and the Internet | [Code](https://github.com/learn-co-students/nyc-web-students-031119/tree/master/11-hashes-and-the-internet) | [Video](https://www.youtube.com/watch?v=5MEpPVREUjE&feature=youtu.be) |
 | 12. Gitignore & Hiding API keys (prerecorded ~10min) | _no code_ | [Video](https://www.youtube.com/watch?v=5MEpPVREUjE&feature=youtu.be) |
 
