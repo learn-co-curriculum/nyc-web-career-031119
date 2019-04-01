@@ -20,3 +20,8 @@
 | 12. Gitignore & Hiding API keys (prerecorded ~10min) | _no code_ | [Video](https://www.youtube.com/watch?v=5MEpPVREUjE&feature=youtu.be) |
 | 13. Intro to TDD | [Code](https://github.com/learn-co-students/nyc-web-students-031119/tree/master/12-intro-to-tdd) | [Video](https://www.youtube.com/watch?v=F_onqFJ6YP4&feature=youtu.be) |
 
+## Module 2 🚂
+| Topic            | Code                | Video                |
+| -----            | ----                | -----                |
+| 14. Intro to the Internet | [Code](https://github.com/learn-co-students/nyc-web-students-031119/tree/master/13-intro-to-internet) | [Video](https://youtu.be/6h_YJmmppqY) |
+| 15. Intro to Sinatra | [Code](https://github.com/learn-co-students/nyc-web-students-031119/tree/master/14-intro-to-sinatra) | [Video](https://www.youtube.com/watch?v=AeHgRGVMiRA&feature=youtu.be) |
