@@ -28,3 +28,4 @@
 | 16. Sinatra Forms | [Code](https://github.com/learn-co-students/nyc-web-students-031119/tree/master/15-sinatra-forms) | Videos: [part 1](https://youtu.be/Xs_E9FOMoqQ) && [part 2](https://youtu.be/NO4lrwjfi7s) |
 | 17. Sinatra Associations & Forms | [Code](https://github.com/learn-co-students/nyc-web-students-031119/tree/master/16-sinatra-associations) | [Video](https://youtu.be/Sad9YJDh3Sk) |
 | 18. Intro to Rails | [Code](https://github.com/learn-co-students/nyc-web-students-031119/tree/master/18-intro-to-rails) | [Video](https://youtu.be/K0P_yzXyKZg) |
+| 19. Rails Forms | [Code](https://github.com/learn-co-students/nyc-web-students-031119/tree/master/19-rails-forms) | [Video] (https://youtu.be/1cNLPimOkd0) |
