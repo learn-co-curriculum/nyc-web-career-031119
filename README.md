@@ -32,5 +32,6 @@
 | 20. Strong Params | [Code](https://github.com/learn-co-students/nyc-web-students-031119/tree/master/20-strong-params) | [Video](https://youtu.be/0QNartgWDvg) |
 | 21. Rails Associations && Validations | [Code](https://github.com/learn-co-students/nyc-web-students-031119/tree/master/21-rails-associations) | [Associations Part 1](https://youtu.be/vAUYrZv2iF8)[Associations Part 2](https://youtu.be/BGpVp5-_Pn4)[Validations](https://youtu.be/vUmNi_NBL0g) |
 | 22. Rails CC Review | [Code](https://github.com/learn-co-students/nyc-web-students-031119/tree/master/22-rails-cc-review) | [Video](https://youtu.be/m3w9HznO0w0) |
-| 23. Intro to CSS/HTML | [Code](https://github.com/learn-co-students/nyc-web-students-031119/tree/master/23-intro-to-html-css) | [Part 1](https://www.youtube.com/watch?v=RGthcxcIzY0)
-| 23. Rails sessions and cookies | [Code](https://github.com/learn-co-students/nyc-web-students-031119/tree/master/24-sessions-cookies) | [Video](https://youtu.be/oXGyB8MG9SU)
+| 23. Intro to CSS/HTML | [Code](https://github.com/learn-co-students/nyc-web-students-031119/tree/master/23-intro-to-html-css) | [Part 1](https://www.youtube.com/watch?v=RGthcxcIzY0)|
+| 24. Rails sessions and cookies | [Code](https://github.com/learn-co-students/nyc-web-students-031119/tree/master/24-sessions-cookies) | [Video](https://youtu.be/oXGyB8MG9SU)|
+| 25. Rails Auth | [Code](https://github.com/learn-co-students/nyc-web-students-031119/tree/master/25-rails-auth) | [Part1](https://youtu.be/ErIX-LbQ7M4) [Part2](https://youtu.be/tHLfJZ_kJLg)|
