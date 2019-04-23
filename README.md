@@ -43,4 +43,5 @@
 | 26. Intro to JS | [Code](https://github.com/learn-co-students/nyc-web-students-031119/tree/master/26-intro-to-js) | [Video](https://youtu.be/1MMw2PulhGE) |
 | 27. Scopes Closures Callbacks | [Code](https://github.com/learn-co-students/nyc-web-students-031119/tree/master/27-scopes-closures-callbacks) | [Video](https://youtu.be/3kTf5Pyp8Fc) |
 | 28. Intro to DOM | [Code](https://github.com/learn-co-students/nyc-web-students-031119/tree/master/28-DOM-intro) | [Video](https://youtu.be/L8rNEjBKkq0) |
+| 28. Intro to Events | [Code](https://github.com/learn-co-students/nyc-web-students-031119/tree/master/29-intro-to-events) | [Video](https://youtu.be/Qx2RPuoD3ro) [SCRIMBA](https://scrimba.com/c/cWqp76Sy)|
 
