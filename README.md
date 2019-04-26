@@ -47,4 +47,4 @@
 | 30. Task Lister Review and Event Delegation | [Code](https://github.com/learn-co-students/nyc-web-students-031119/tree/master/30-task-lister-review-event-delegation) | [Video](https://youtu.be/cAVKZ6Pvf2E) [SCRIMBA](https://scrimba.com/c/cpqgN2UV)|
 | 31. JS Pokemon Searrch | [Code](https://github.com/learn-co-students/nyc-web-students-031119/tree/master/31-js-pokemon-search) | [Video](https://youtu.be/lD5sK8dGSL8) |
 | 32. Intro to Ajax and Fetch | [Code](https://github.com/learn-co-students/nyc-web-students-031119/tree/master/32-intro-to-AJAX) | [Video](https://youtu.be/2re-EdYJd-Y) |
-| 33. Rails API | [Code](https://github.com/learn-co-students/nyc-web-students-031119/tree/master/33-rails-api) | [Video 1](https://www.youtube.com/watch?v=jHxLdfwbYS4&feature=youtu.be) |
+| 33. Rails API | [Code](https://github.com/learn-co-students/nyc-web-students-031119/tree/master/33-rails-api) | [Video 1](https://www.youtube.com/watch?v=jHxLdfwbYS4&feature=youtu.be) [Video2](https://youtu.be/M8jvfoaH5wo)|
