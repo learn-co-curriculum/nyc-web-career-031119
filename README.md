@@ -48,4 +48,6 @@
 | 31. JS Pokemon Searrch | [Code](https://github.com/learn-co-students/nyc-web-students-031119/tree/master/31-js-pokemon-search) | [Video](https://youtu.be/lD5sK8dGSL8) |
 | 32. Intro to Ajax and Fetch | [Code](https://github.com/learn-co-students/nyc-web-students-031119/tree/master/32-intro-to-AJAX) | [Video](https://youtu.be/2re-EdYJd-Y) |
 | 33. Rails API | [Code](https://github.com/learn-co-students/nyc-web-students-031119/tree/master/33-rails-api) | [Video 1](https://www.youtube.com/watch?v=jHxLdfwbYS4&feature=youtu.be) [Video2](https://youtu.be/M8jvfoaH5wo)|
-| 34. Chair Kidz | [Code](https://github.com/learn-co-students/nyc-web-students-031119/tree/master/34-chair-kidz-js-practice-challenge) | [Video](https://youtu.be/_wFDPQL3B4Y)
+| 34. Chair Kidz | [Code](https://github.com/learn-co-students/nyc-web-students-031119/tree/master/34-chair-kidz-js-practice-challenge) | [Video](https://youtu.be/_wFDPQL3B4Y) |
+| 35. Intro to `this` | [Code](https://github.com/learn-co-students/nyc-web-students-031119/tree/master/34-execution-context-this) | [Video](https://youtu.be/Fb9HpE0XN0M) |
+| 36. Intro to OOJS | [Code](https://github.com/learn-co-students/nyc-web-students-031119/tree/master/35-oojs-prototype) | [Video](https://youtu.be/Fb9HpE0XN0M) |
