@@ -51,3 +51,5 @@
 | 34. Chair Kidz | [Code](https://github.com/learn-co-students/nyc-web-students-031119/tree/master/34-chair-kidz-js-practice-challenge) | [Video](https://youtu.be/_wFDPQL3B4Y) |
 | 35. Intro to `this` | [Code](https://github.com/learn-co-students/nyc-web-students-031119/tree/master/34-execution-context-this) | [Video](https://youtu.be/Fb9HpE0XN0M) |
 | 36. Intro to OOJS | [Code](https://github.com/learn-co-students/nyc-web-students-031119/tree/master/35-oojs-prototype) | [Video](https://youtu.be/Fb9HpE0XN0M) |
+| 37. OOJS Refactor| [Code](https://github.com/learn-co-students/nyc-web-students-031119/tree/master/36-woof-woof-oojs-refactor) | 
+| 37. Pokemon Refactor| [Code]https://github.com/learn-co-students/nyc-web-students-031119/tree/master/37-refactor) | 
