@@ -55,3 +55,4 @@
 | 38. Pokemon Refactor| [Code](https://github.com/learn-co-students/nyc-web-students-031119/tree/master/37-refactor) |
 | 39. Big O | [Diagram](bigo031119.png) | [Video](http://youtu.be/a2dHj_lD3bo) |
 | 40. Recursion | [Practice Problems](https://github.com/alexgriff/wdf_recursion_exercises) | [Video](https://www.youtube.com/watch?v=R5h11Y58AnE&feature=youtu.be) |
+| 41. ES6 and BEYOND! | [Code Problems](https://github.com/learn-co-students/nyc-web-students-031119/tree/master/38-es6-modern-js) | [Video](https://youtu.be/xGBbdwqhw0U) |
