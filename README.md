@@ -64,3 +64,4 @@
 | 42. Intro to React | [Code](https://github.com/learn-co-students/nyc-web-students-031119/tree/master/39-intro-to-react) | [Video](https://www.youtube.com/watch?v=AtZsRDVl85w&feature=youtu.be) |
 | 43. Props (& a bit of State) | [Code](https://github.com/learn-co-students/nyc-web-students-031119/tree/master/40-more-react/class_project) | [Video](https://www.youtube.com/watch?v=EwAOgOSO30E&feature=youtu.be) |
 | 44. Managing State | [Code (diff)](https://github.com/learn-co-students/nyc-web-students-031119/commit/9e481d898ee62f82c05a02ef8ab01768714173d3) | [Video](https://www.youtube.com/watch?v=pWy8LM91pAU&feature=youtu.be) |
+| 45. Forms & Events | [Code (diff)](https://github.com/learn-co-students/nyc-web-students-031119/commit/5383f4afa0dfb74488170b837a5f6770a9dbf764) | [Video] coming sooooooon... |
