@@ -68,3 +68,4 @@
 | 46. Thinking in React | [Pets Code](https://github.com/learn-co-students/nyc-web-students-031119/tree/master/41-thinking-in-react) / [Code(diff)](https://github.com/learn-co-students/nyc-web-students-031119/commit/4cc733dcd7568adda7f6843adca86fa924f05252) | [Video](https://www.youtube.com/watch?v=YdfpRXGg_gc&feature=youtu.be) |
 | 47. Component Lifecycle | [Code](https://github.com/learn-co-students/nyc-web-students-031119/tree/master/42-component-lifecycle) | [Video](https://www.youtube.com/watch?v=1bMlr5zy3v8&feature=youtu.be) |
 | 48. Sushi Saga Review| [Code](https://github.com/learn-co-students/nyc-web-students-031119/tree/master/44-sushi-saga/React-Practice-Code-Challenge-nyc-web-career-031119) | [Video](http://youtu.be/x1CJeBkcE_E) |
+| 49. Higher Order Components | [Code (hoc branch)](https://github.com/learn-co-students/nyc-web-students-031119/tree/hoc/40-more-react/class_project) | [Video] coming soon... |
