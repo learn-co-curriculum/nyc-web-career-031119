@@ -69,3 +69,4 @@
 | 47. Component Lifecycle | [Code](https://github.com/learn-co-students/nyc-web-students-031119/tree/master/42-component-lifecycle) | [Video](https://www.youtube.com/watch?v=1bMlr5zy3v8&feature=youtu.be) |
 | 48. Sushi Saga Review| [Code](https://github.com/learn-co-students/nyc-web-students-031119/tree/master/44-sushi-saga/React-Practice-Code-Challenge-nyc-web-career-031119) | [Video](http://youtu.be/x1CJeBkcE_E) |
 | 49. Higher Order Components | [Code (hoc branch)](https://github.com/learn-co-students/nyc-web-students-031119/tree/hoc/40-more-react/class_project) | [Video](https://www.youtube.com/watch?v=tRrDVp4EHZ4&feature=youtu.be) |
+| 50. React Router | [Code](https://github.com/learn-co-students/nyc-web-students-031119/tree/master/40-more-react/class_project) | [Vide](http://youtu.be/R8_3EjqSnQA) |
