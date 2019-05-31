@@ -71,4 +71,4 @@
 | 49. Higher Order Components | [Code (hoc branch)](https://github.com/learn-co-students/nyc-web-students-031119/tree/hoc/40-more-react/class_project) | [Video](https://www.youtube.com/watch?v=tRrDVp4EHZ4&feature=youtu.be) |
 | 50. React Router | [Code](https://github.com/learn-co-students/nyc-web-students-031119/tree/master/40-more-react/class_project) | [Video](http://youtu.be/R8_3EjqSnQA) |
 | 51. Authentication | [Readme](https://github.com/learn-co-students/nyc-web-students-031119/tree/master/47-auth) / [Code](https://github.com/learn-co-students/nyc-web-students-031119/tree/master/40-more-react) | [Video 1](https://www.youtube.com/watch?v=o_hZZ0a6oDc&feature=youtu.be) [Video 2](https://www.youtube.com/watch?v=iBWmbCqfuJY&feature=youtu.be) |
-| Redux | [Code](https://github.com/learn-co-students/nyc-web-students-031119/commit/f5f1839bf8139e498e0bb1440a4814c052f8f08f) | [Video](https://www.youtube.com/watch?v=8DbG0rIhrm4&feature=youtu.be) |
+| 52. Redux | [Code](https://github.com/learn-co-students/nyc-web-students-031119/commit/f5f1839bf8139e498e0bb1440a4814c052f8f08f) | [Video](https://www.youtube.com/watch?v=8DbG0rIhrm4&feature=youtu.be) |
