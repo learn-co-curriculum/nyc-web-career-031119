@@ -74,5 +74,6 @@
 | 52. Redux | [Code](https://github.com/learn-co-students/nyc-web-students-031119/commit/f5f1839bf8139e498e0bb1440a4814c052f8f08f) | [Video](https://www.youtube.com/watch?v=8DbG0rIhrm4&feature=youtu.be) |
 | 53. React-Redux | [Code](https://github.com/learn-co-students/nyc-web-students-031119/tree/master/49-redux)| [Video](http://youtu.be/urh7kXUjGu4) |
 | 54. Redux-Nested-State | [Code](https://github.com/learn-co-students/nyc-web-students-031119/tree/master/50-redux-nested-state-challenge)| [Video Pt. 1](https://youtu.be/dogOyWQm4_w) [Video Pt. 2](https://youtu.be/TuzadR3o-VM) 
+| 55. Redux-Auth | [Code](https://github.com/learn-co-students/nyc-web-students-031119/tree/master/51-redux-auth)| [Video](https://www.youtube.com/watch?v=aLkAJkEEgSY&feature=youtu.be) 
 
 [Redux Terminology Doc](https://gist.github.com/alexgriff/0e247dee73e9125177d9c04cec159cc6)
